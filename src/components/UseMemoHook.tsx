@@ -1,8 +1,4 @@
 // Note: 1. use for slow function 2. use for referential equality
-// Note: 1. use for slow function 2. use for referential equality
-// Note: 1. use for slow function 2. use for referential equality
-// Note: 1. use for slow function 2. use for referential equality
-// Note: 1. use for slow function 2. use for referential equality
 
 import { useState, useMemo } from 'react';
 
