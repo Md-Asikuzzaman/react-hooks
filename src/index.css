@@ -7,7 +7,21 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.active {
+  background-color: green;
+  color: #fff;
+}
+
+.my-app {
+  min-height: 200vh;
+}
+
+.first-child {
+  background-color: rgb(252, 119, 119);
+  min-height: 100vh;
+}
+
+.second-child {
+  background-color: rgb(119, 251, 119);
+  min-height: 100vh;
 }
